@@ -33,6 +33,7 @@ The dataset used is `customer_segmentation.csv`, which includes the following ke
    - Export the segmented dataset as `processed_customer_segmentation.csv`.
 
 ## Requirements
+To run the script you must have the dataset and the new.py in one folder
 Ensure you have the following dependencies installed before running the script:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
