@@ -1,0 +1,501 @@
+CustomerID,Age,Gender,Annual Income (k$),Spending Score (1-100),Purchase Frequency,Customer Category,Tenure (Years),Location,Preferred Payment Method
+1001,56,Male,67,6,35,Budget,18,Phoenix,Cryptocurrency
+1002,69,Male,71,73,34,Premium,12,New York,PayPal
+1003,46,Male,131,95,23,Premium,11,Atlanta,PayPal
+1004,32,Male,49,32,30,Budget,5,San Francisco,Credit Card
+1005,60,Female,77,41,8,Regular,20,Atlanta,Cryptocurrency
+1006,25,Female,39,76,22,Premium,3,Phoenix,PayPal
+1007,38,Female,104,8,44,Budget,18,Seattle,Cryptocurrency
+1008,56,Male,89,72,36,Premium,15,Denver,Credit Card
+1009,36,Female,52,50,5,Regular,12,San Francisco,PayPal
+1010,40,Female,144,92,13,Premium,3,San Francisco,Credit Card
+1011,28,Female,149,62,29,Regular,16,New York,Cryptocurrency
+1012,28,Female,105,84,31,Premium,0,Houston,Cryptocurrency
+1013,41,Male,31,62,47,Regular,17,Los Angeles,Credit Card
+1014,70,Male,142,7,16,Budget,19,Los Angeles,Debit Card
+1015,53,Male,122,75,42,Premium,16,Los Angeles,PayPal
+1016,57,Female,39,84,30,Premium,14,Houston,Cryptocurrency
+1017,41,Male,102,80,16,Premium,10,New York,Cryptocurrency
+1018,20,Male,43,4,12,Budget,12,Houston,PayPal
+1019,39,Male,77,6,17,Budget,0,Los Angeles,Credit Card
+1020,70,Male,128,58,16,Regular,16,Phoenix,Credit Card
+1021,19,Female,63,22,12,Budget,5,Chicago,Credit Card
+1022,41,Female,95,26,8,Budget,3,Seattle,Debit Card
+1023,61,Male,98,3,20,Budget,19,Houston,Debit Card
+1024,47,Male,119,41,3,Regular,15,New York,Cryptocurrency
+1025,55,Female,132,60,16,Regular,14,New York,Credit Card
+1026,19,Male,100,14,30,Budget,14,Atlanta,PayPal
+1027,38,Male,77,75,45,Premium,5,Chicago,Cryptocurrency
+1028,50,Male,118,82,23,Premium,14,Denver,PayPal
+1029,29,Male,63,12,28,Budget,13,San Francisco,Cryptocurrency
+1030,39,Female,85,87,40,Premium,10,Los Angeles,Debit Card
+1031,61,Female,15,12,5,Budget,6,Denver,Cryptocurrency
+1032,42,Male,137,13,20,Budget,8,Atlanta,Debit Card
+1033,66,Male,76,25,40,Budget,15,Los Angeles,Cryptocurrency
+1034,44,Female,46,45,44,Regular,4,Chicago,Credit Card
+1035,59,Female,43,19,1,Budget,19,Atlanta,PayPal
+1036,45,Female,63,55,30,Regular,9,Los Angeles,Credit Card
+1037,33,Female,44,100,21,Premium,17,Chicago,Cryptocurrency
+1038,32,Male,33,45,20,Regular,2,Miami,Cryptocurrency
+1039,64,Male,32,8,6,Budget,12,Denver,Cryptocurrency
+1040,68,Female,15,93,22,Premium,10,Denver,Debit Card
+1041,61,Male,92,53,18,Regular,16,San Francisco,PayPal
+1042,69,Female,129,55,8,Regular,12,Chicago,PayPal
+1043,20,Female,127,32,39,Budget,5,Houston,Cryptocurrency
+1044,54,Female,128,51,32,Regular,16,Miami,Cryptocurrency
+1045,68,Male,77,44,33,Regular,12,Phoenix,Debit Card
+1046,24,Female,146,82,16,Premium,18,Los Angeles,Credit Card
+1047,38,Male,143,70,12,Regular,20,Miami,Credit Card
+1048,26,Female,22,18,38,Budget,18,Chicago,PayPal
+1049,56,Female,69,83,34,Premium,9,Seattle,Debit Card
+1050,35,Male,117,22,14,Budget,2,Los Angeles,Cryptocurrency
+1051,21,Non-binary,145,37,36,Budget,13,New York,PayPal
+1052,42,Female,46,96,33,Premium,18,Denver,Debit Card
+1053,31,Male,24,56,23,Regular,4,Chicago,Credit Card
+1054,67,Male,124,59,50,Regular,4,New York,Debit Card
+1055,26,Male,138,3,45,Budget,19,San Francisco,Credit Card
+1056,43,Male,101,28,2,Budget,16,Atlanta,Debit Card
+1057,70,Male,69,74,41,Premium,20,Phoenix,PayPal
+1058,19,Female,46,35,21,Budget,9,Phoenix,Credit Card
+1059,37,Male,149,61,2,Regular,4,New York,PayPal
+1060,45,Male,107,93,27,Premium,3,Denver,PayPal
+1061,64,Female,22,54,9,Regular,5,San Francisco,Credit Card
+1062,24,Male,79,63,1,Regular,3,Seattle,Credit Card
+1063,61,Female,71,79,11,Premium,6,Denver,Cryptocurrency
+1064,25,Male,81,97,3,Premium,6,Miami,Cryptocurrency
+1065,64,Male,86,7,23,Budget,17,Phoenix,Cryptocurrency
+1066,52,Female,68,76,26,Premium,2,Miami,PayPal
+1067,31,Female,81,49,4,Regular,0,Los Angeles,PayPal
+1068,34,Female,65,94,18,Premium,3,Houston,Cryptocurrency
+1069,53,Female,111,85,6,Premium,5,Chicago,PayPal
+1070,67,Female,106,31,35,Budget,8,San Francisco,PayPal
+1071,57,Male,22,58,22,Regular,13,Denver,Credit Card
+1072,21,Male,49,61,43,Regular,11,Phoenix,Credit Card
+1073,19,Female,110,24,15,Budget,19,Miami,PayPal
+1074,23,Female,102,20,22,Budget,3,Atlanta,Cryptocurrency
+1075,59,Non-binary,92,37,37,Budget,20,Los Angeles,Debit Card
+1076,21,Male,46,4,42,Budget,11,Chicago,Cryptocurrency
+1077,46,Male,134,92,12,Premium,9,Chicago,Debit Card
+1078,35,Female,60,20,47,Budget,6,Denver,Cryptocurrency
+1079,43,Male,69,60,49,Regular,2,San Francisco,Credit Card
+1080,61,Female,21,24,42,Budget,13,Seattle,PayPal
+1081,51,Female,88,50,38,Regular,9,Atlanta,PayPal
+1082,27,Male,21,49,18,Regular,15,Denver,Credit Card
+1083,53,Female,99,51,45,Regular,15,Miami,Debit Card
+1084,31,Female,126,96,35,Premium,9,Houston,Debit Card
+1085,48,Male,139,36,30,Budget,12,New York,Debit Card
+1086,65,Female,50,98,24,Premium,5,Seattle,Credit Card
+1087,32,Female,43,100,42,Premium,11,San Francisco,Debit Card
+1088,25,Female,96,66,30,Regular,8,Los Angeles,Credit Card
+1089,31,Male,16,79,14,Premium,12,Seattle,Cryptocurrency
+1090,40,Female,143,34,6,Budget,3,Phoenix,Cryptocurrency
+1091,57,Male,61,36,3,Budget,10,San Francisco,Credit Card
+1092,38,Male,25,6,16,Budget,19,Houston,PayPal
+1093,33,Female,144,39,7,Budget,17,Phoenix,Cryptocurrency
+1094,62,Male,133,42,14,Regular,10,Seattle,Debit Card
+1095,35,Male,34,58,9,Regular,20,New York,Credit Card
+1096,64,Female,19,12,15,Budget,3,New York,Debit Card
+1097,70,Female,51,3,21,Budget,17,Houston,Debit Card
+1098,41,Female,67,18,35,Budget,0,Chicago,PayPal
+1099,43,Female,113,40,2,Budget,6,Atlanta,Debit Card
+1100,42,Male,100,21,27,Budget,5,Los Angeles,PayPal
+1101,62,Male,122,15,2,Budget,14,Chicago,Cryptocurrency
+1102,58,Male,38,97,35,Premium,17,New York,Credit Card
+1103,46,Female,95,99,18,Premium,10,New York,Debit Card
+1104,32,Female,134,26,14,Budget,19,Miami,Credit Card
+1105,62,Female,73,8,20,Budget,14,Phoenix,Debit Card
+1106,18,Female,142,100,18,Premium,15,Seattle,Credit Card
+1107,42,Male,128,94,10,Premium,6,Los Angeles,Debit Card
+1108,24,Female,129,87,25,Premium,20,Houston,Debit Card
+1109,26,Male,28,42,2,Regular,9,Seattle,Debit Card
+1110,41,Female,23,44,25,Regular,11,Miami,Debit Card
+1111,18,Male,54,14,33,Budget,13,New York,Debit Card
+1112,61,Female,39,78,36,Premium,4,Houston,Debit Card
+1113,25,Male,117,2,31,Budget,20,New York,Debit Card
+1114,41,Male,36,37,14,Budget,17,Los Angeles,Debit Card
+1115,28,Male,18,69,1,Regular,4,Phoenix,Debit Card
+1116,68,Female,43,38,46,Budget,2,Seattle,Credit Card
+1117,34,Female,123,41,16,Regular,4,Seattle,PayPal
+1118,25,Male,112,62,46,Regular,16,Chicago,Debit Card
+1119,52,Male,51,60,3,Regular,18,Houston,PayPal
+1120,52,Female,89,14,35,Budget,18,Atlanta,Debit Card
+1121,50,Male,84,89,41,Premium,20,Miami,Debit Card
+1122,22,Female,142,84,6,Premium,11,Atlanta,Credit Card
+1123,59,Female,99,2,25,Budget,8,Chicago,Cryptocurrency
+1124,56,Male,56,70,13,Regular,0,Los Angeles,Cryptocurrency
+1125,58,Male,114,17,34,Budget,17,Miami,Credit Card
+1126,45,Non-binary,55,89,8,Premium,20,Phoenix,PayPal
+1127,24,Male,48,28,21,Budget,3,Atlanta,Cryptocurrency
+1128,26,Male,31,66,34,Regular,9,Phoenix,Credit Card
+1129,25,Female,136,35,4,Budget,6,Atlanta,Credit Card
+1130,29,Female,90,5,25,Budget,0,Phoenix,Cryptocurrency
+1131,51,Non-binary,101,65,15,Regular,16,Atlanta,PayPal
+1132,50,Female,131,40,4,Budget,1,Phoenix,Credit Card
+1133,65,Male,120,76,45,Premium,10,Chicago,Debit Card
+1134,40,Male,100,56,12,Regular,8,San Francisco,PayPal
+1135,41,Female,41,36,32,Budget,6,Miami,PayPal
+1136,54,Female,71,45,32,Regular,16,Houston,Cryptocurrency
+1137,52,Male,45,23,28,Budget,16,Los Angeles,Cryptocurrency
+1138,61,Female,148,47,13,Regular,1,Denver,Debit Card
+1139,57,Male,112,31,31,Budget,5,New York,Credit Card
+1140,39,Female,26,11,14,Budget,13,Houston,Cryptocurrency
+1141,44,Male,67,10,20,Budget,5,New York,Cryptocurrency
+1142,52,Male,136,67,18,Regular,1,Miami,PayPal
+1143,18,Male,60,14,29,Budget,0,Houston,Cryptocurrency
+1144,52,Male,78,80,6,Premium,9,Phoenix,Cryptocurrency
+1145,54,Male,144,74,32,Premium,20,Phoenix,Cryptocurrency
+1146,64,Female,68,93,29,Premium,4,Denver,Cryptocurrency
+1147,31,Female,121,10,43,Budget,1,New York,PayPal
+1148,20,Female,65,76,2,Premium,15,Los Angeles,Debit Card
+1149,18,Non-binary,50,94,23,Premium,1,Miami,Debit Card
+1150,22,Male,129,1,19,Budget,9,Phoenix,Credit Card
+1151,43,Male,40,5,31,Budget,1,San Francisco,Cryptocurrency
+1152,31,Female,43,20,5,Budget,15,Chicago,PayPal
+1153,56,Male,25,8,19,Budget,15,Chicago,Credit Card
+1154,44,Non-binary,54,43,34,Regular,18,Atlanta,Credit Card
+1155,26,Male,25,76,10,Premium,6,Los Angeles,Debit Card
+1156,32,Non-binary,127,1,25,Budget,11,Chicago,PayPal
+1157,32,Male,53,57,2,Regular,14,Atlanta,PayPal
+1158,43,Female,68,64,11,Regular,7,New York,PayPal
+1159,59,Female,112,84,50,Premium,5,Phoenix,Debit Card
+1160,30,Non-binary,69,28,31,Budget,9,Phoenix,Debit Card
+1161,68,Male,125,37,15,Budget,2,San Francisco,Debit Card
+1162,49,Female,83,47,9,Regular,18,Houston,Debit Card
+1163,56,Non-binary,70,76,23,Premium,16,Chicago,Debit Card
+1164,66,Female,47,37,19,Budget,6,New York,Cryptocurrency
+1165,69,Female,50,49,9,Regular,20,Seattle,Cryptocurrency
+1166,49,Female,95,44,35,Regular,19,Chicago,PayPal
+1167,21,Male,123,56,21,Regular,3,Los Angeles,Credit Card
+1168,47,Female,87,28,9,Budget,13,Houston,PayPal
+1169,54,Female,54,79,28,Premium,19,Chicago,Credit Card
+1170,40,Female,31,6,46,Budget,14,New York,Debit Card
+1171,56,Male,143,61,7,Regular,7,Chicago,Credit Card
+1172,62,Male,75,20,16,Budget,20,Los Angeles,PayPal
+1173,32,Female,118,78,16,Premium,14,Seattle,PayPal
+1174,60,Female,56,2,33,Budget,19,Miami,Credit Card
+1175,46,Male,39,73,4,Premium,13,Denver,Cryptocurrency
+1176,53,Female,53,37,4,Budget,8,Seattle,Debit Card
+1177,30,Male,49,20,39,Budget,7,Atlanta,Debit Card
+1178,49,Male,145,26,40,Budget,16,Chicago,PayPal
+1179,24,Male,122,29,17,Budget,1,Phoenix,Cryptocurrency
+1180,68,Male,116,1,37,Budget,2,San Francisco,Credit Card
+1181,39,Female,112,35,39,Budget,7,Phoenix,Debit Card
+1182,45,Male,26,70,29,Regular,11,Seattle,Cryptocurrency
+1183,19,Non-binary,33,59,36,Regular,0,Phoenix,Debit Card
+1184,59,Non-binary,115,69,38,Regular,9,New York,Cryptocurrency
+1185,62,Female,58,33,39,Budget,19,Phoenix,Cryptocurrency
+1186,70,Female,63,51,50,Regular,2,Houston,PayPal
+1187,23,Male,31,78,37,Premium,5,Miami,Debit Card
+1188,45,Female,88,12,35,Budget,6,Chicago,Credit Card
+1189,45,Female,71,20,7,Budget,19,Phoenix,PayPal
+1190,61,Male,69,53,27,Regular,17,Los Angeles,PayPal
+1191,61,Female,61,88,28,Premium,10,Miami,Credit Card
+1192,37,Female,26,43,22,Regular,18,Miami,PayPal
+1193,47,Female,76,98,14,Premium,4,Phoenix,Cryptocurrency
+1194,28,Female,94,89,7,Premium,18,Miami,Cryptocurrency
+1195,45,Female,97,50,37,Regular,10,San Francisco,Debit Card
+1196,42,Male,22,29,22,Budget,11,Phoenix,Debit Card
+1197,56,Female,95,57,5,Regular,9,New York,Credit Card
+1198,50,Female,132,39,2,Budget,7,Seattle,Debit Card
+1199,18,Male,39,95,27,Premium,8,Houston,Cryptocurrency
+1200,44,Male,103,56,21,Regular,3,Denver,Credit Card
+1201,69,Male,26,43,38,Regular,4,Atlanta,Credit Card
+1202,30,Female,73,50,15,Regular,20,Miami,Debit Card
+1203,58,Non-binary,123,23,21,Budget,7,New York,Cryptocurrency
+1204,20,Male,40,44,10,Regular,8,Chicago,Credit Card
+1205,56,Female,61,38,23,Budget,14,Chicago,Cryptocurrency
+1206,23,Male,46,84,39,Premium,14,Atlanta,Cryptocurrency
+1207,25,Non-binary,24,23,5,Budget,15,Houston,Cryptocurrency
+1208,44,Female,30,45,1,Regular,13,Miami,Debit Card
+1209,26,Female,40,52,13,Regular,7,San Francisco,PayPal
+1210,54,Male,100,80,21,Premium,17,Atlanta,PayPal
+1211,50,Male,149,50,26,Regular,9,Houston,Credit Card
+1212,68,Male,28,8,50,Budget,19,Miami,Cryptocurrency
+1213,59,Male,93,85,45,Premium,5,New York,Debit Card
+1214,61,Female,131,1,21,Budget,11,Seattle,Cryptocurrency
+1215,41,Female,21,8,18,Budget,1,San Francisco,Cryptocurrency
+1216,32,Non-binary,129,29,37,Budget,6,Denver,Debit Card
+1217,49,Non-binary,86,96,45,Premium,15,Chicago,PayPal
+1218,49,Female,73,5,32,Budget,2,Los Angeles,Cryptocurrency
+1219,41,Female,96,86,36,Premium,12,New York,Cryptocurrency
+1220,58,Female,130,47,17,Regular,2,Chicago,PayPal
+1221,69,Female,117,34,35,Budget,17,Phoenix,Debit Card
+1222,66,Male,31,65,49,Regular,10,Los Angeles,Credit Card
+1223,66,Male,28,55,11,Regular,7,Chicago,PayPal
+1224,69,Male,122,90,21,Premium,5,Houston,Credit Card
+1225,29,Female,59,43,26,Regular,0,San Francisco,Credit Card
+1226,56,Female,112,74,4,Premium,0,Chicago,PayPal
+1227,19,Male,145,30,34,Budget,7,Denver,Cryptocurrency
+1228,20,Female,51,82,48,Premium,4,Seattle,Credit Card
+1229,66,Female,122,17,18,Budget,15,Houston,Credit Card
+1230,54,Male,53,26,40,Budget,10,New York,Debit Card
+1231,66,Male,29,8,35,Budget,4,New York,Cryptocurrency
+1232,34,Female,134,47,41,Regular,3,New York,Credit Card
+1233,66,Female,18,76,29,Premium,5,New York,Debit Card
+1234,19,Female,107,91,29,Premium,13,Seattle,Cryptocurrency
+1235,19,Female,30,72,38,Premium,18,Chicago,PayPal
+1236,45,Female,122,89,42,Premium,8,Miami,PayPal
+1237,40,Female,140,46,21,Regular,11,Chicago,Debit Card
+1238,54,Female,69,68,42,Regular,10,Phoenix,PayPal
+1239,49,Female,48,33,13,Budget,13,San Francisco,Credit Card
+1240,50,Male,27,1,49,Budget,15,Los Angeles,Cryptocurrency
+1241,18,Male,32,19,41,Budget,0,Miami,Credit Card
+1242,36,Male,110,31,17,Budget,12,Miami,Credit Card
+1243,19,Female,137,80,9,Premium,20,Chicago,PayPal
+1244,70,Female,53,14,41,Budget,20,Miami,Credit Card
+1245,61,Female,60,53,1,Regular,12,Atlanta,PayPal
+1246,43,Male,43,48,2,Regular,1,Atlanta,Cryptocurrency
+1247,49,Male,76,69,48,Regular,3,Phoenix,Cryptocurrency
+1248,23,Male,30,90,29,Premium,5,Los Angeles,Credit Card
+1249,49,Male,135,62,33,Regular,4,Denver,Debit Card
+1250,21,Female,24,92,10,Premium,2,Seattle,PayPal
+1251,28,Male,117,66,50,Regular,0,Chicago,PayPal
+1252,34,Male,98,64,40,Regular,3,Seattle,Credit Card
+1253,55,Female,147,70,21,Regular,19,Denver,PayPal
+1254,41,Male,79,63,28,Regular,1,Chicago,PayPal
+1255,22,Female,17,73,11,Premium,4,Chicago,Debit Card
+1256,69,Female,134,33,34,Budget,2,Los Angeles,Debit Card
+1257,51,Male,82,41,8,Regular,8,Seattle,Credit Card
+1258,23,Female,51,89,22,Premium,19,Atlanta,Debit Card
+1259,39,Female,87,48,8,Regular,5,New York,Credit Card
+1260,28,Female,63,13,49,Budget,17,Seattle,Cryptocurrency
+1261,65,Male,135,73,15,Premium,5,San Francisco,Credit Card
+1262,33,Female,102,77,17,Premium,18,San Francisco,Cryptocurrency
+1263,50,Female,51,31,23,Budget,11,Chicago,Credit Card
+1264,26,Male,75,75,24,Premium,10,New York,PayPal
+1265,23,Male,138,68,45,Regular,1,Houston,Debit Card
+1266,33,Non-binary,53,98,19,Premium,14,Denver,Cryptocurrency
+1267,46,Female,77,4,5,Budget,11,Phoenix,Credit Card
+1268,20,Male,60,19,32,Budget,11,New York,Debit Card
+1269,37,Female,102,70,44,Regular,8,Phoenix,Credit Card
+1270,53,Male,25,98,1,Premium,20,Seattle,Debit Card
+1271,36,Male,76,82,23,Premium,1,Seattle,Debit Card
+1272,43,Male,91,13,37,Budget,2,Phoenix,Credit Card
+1273,20,Male,66,23,8,Budget,11,Denver,Cryptocurrency
+1274,36,Male,18,83,13,Premium,15,New York,Cryptocurrency
+1275,37,Male,73,75,8,Premium,20,Houston,PayPal
+1276,49,Female,86,1,23,Budget,0,Chicago,Debit Card
+1277,24,Male,107,88,43,Premium,20,Los Angeles,PayPal
+1278,69,Male,77,54,1,Regular,2,Seattle,PayPal
+1279,58,Female,68,71,45,Premium,19,San Francisco,Credit Card
+1280,50,Male,131,89,24,Premium,1,Denver,Credit Card
+1281,57,Female,124,85,35,Premium,8,Los Angeles,Credit Card
+1282,56,Male,88,15,24,Budget,18,Houston,Debit Card
+1283,35,Male,121,65,17,Regular,14,Miami,Credit Card
+1284,57,Male,71,76,5,Premium,17,Chicago,Credit Card
+1285,18,Male,17,71,20,Premium,10,Seattle,Debit Card
+1286,28,Male,134,15,21,Budget,15,Chicago,Debit Card
+1287,45,Male,20,21,40,Budget,16,Los Angeles,Cryptocurrency
+1288,42,Male,19,19,31,Budget,4,Chicago,Credit Card
+1289,67,Male,19,60,46,Regular,11,Miami,Credit Card
+1290,40,Male,68,93,36,Premium,10,Los Angeles,Credit Card
+1291,48,Male,61,89,11,Premium,14,Seattle,Cryptocurrency
+1292,47,Male,23,33,15,Budget,2,New York,Credit Card
+1293,59,Female,113,49,19,Regular,0,San Francisco,Cryptocurrency
+1294,52,Female,34,96,7,Premium,19,Los Angeles,PayPal
+1295,24,Male,136,35,28,Budget,15,Atlanta,Cryptocurrency
+1296,33,Female,75,44,43,Regular,1,Miami,PayPal
+1297,43,Female,137,90,5,Premium,1,Los Angeles,Credit Card
+1298,65,Male,96,11,5,Budget,2,Los Angeles,PayPal
+1299,69,Female,76,99,30,Premium,7,Atlanta,Cryptocurrency
+1300,66,Female,17,72,32,Premium,14,Seattle,Debit Card
+1301,19,Male,27,78,8,Premium,6,Los Angeles,PayPal
+1302,18,Male,134,74,10,Premium,5,San Francisco,PayPal
+1303,65,Female,139,66,38,Regular,8,Chicago,Credit Card
+1304,29,Female,103,46,47,Regular,19,Seattle,Cryptocurrency
+1305,22,Male,87,9,32,Budget,0,San Francisco,PayPal
+1306,54,Male,82,3,48,Budget,7,Seattle,PayPal
+1307,49,Male,115,85,28,Premium,2,San Francisco,PayPal
+1308,26,Female,112,26,17,Budget,3,Miami,PayPal
+1309,58,Female,25,72,31,Premium,14,San Francisco,Debit Card
+1310,52,Male,119,48,8,Regular,5,Phoenix,Cryptocurrency
+1311,36,Male,81,66,40,Regular,14,San Francisco,Credit Card
+1312,65,Female,137,70,25,Regular,20,New York,Credit Card
+1313,33,Male,43,28,9,Budget,2,New York,Debit Card
+1314,20,Male,90,93,2,Premium,20,Denver,Cryptocurrency
+1315,37,Female,23,26,15,Budget,20,Phoenix,PayPal
+1316,41,Female,54,25,50,Budget,13,Phoenix,Debit Card
+1317,50,Female,39,12,3,Budget,19,Chicago,Cryptocurrency
+1318,41,Female,19,5,49,Budget,13,Phoenix,PayPal
+1319,69,Male,138,98,36,Premium,3,Chicago,Debit Card
+1320,28,Male,52,48,4,Regular,11,Denver,Cryptocurrency
+1321,66,Female,86,37,14,Budget,16,Denver,Credit Card
+1322,25,Male,147,79,41,Premium,6,Miami,Credit Card
+1323,53,Male,104,44,41,Regular,8,New York,Cryptocurrency
+1324,55,Male,51,100,25,Premium,2,San Francisco,Credit Card
+1325,57,Male,74,15,50,Budget,12,San Francisco,Cryptocurrency
+1326,37,Male,42,43,10,Regular,14,Atlanta,PayPal
+1327,52,Male,95,48,21,Regular,17,Atlanta,Cryptocurrency
+1328,65,Male,128,87,36,Premium,18,Houston,PayPal
+1329,42,Male,54,70,12,Regular,0,Seattle,Debit Card
+1330,52,Female,59,46,27,Regular,5,Miami,Cryptocurrency
+1331,42,Female,76,43,40,Regular,1,Houston,Debit Card
+1332,46,Female,107,21,2,Budget,13,Houston,Credit Card
+1333,35,Female,129,23,13,Budget,5,Los Angeles,PayPal
+1334,63,Female,81,80,32,Premium,13,Los Angeles,Cryptocurrency
+1335,35,Male,70,47,31,Regular,3,Houston,Debit Card
+1336,19,Female,54,15,16,Budget,20,Phoenix,PayPal
+1337,52,Female,112,25,32,Budget,7,Seattle,PayPal
+1338,33,Female,54,36,32,Budget,2,Miami,Credit Card
+1339,58,Male,105,75,34,Premium,18,Houston,Credit Card
+1340,53,Male,47,51,11,Regular,13,San Francisco,PayPal
+1341,50,Male,20,15,10,Budget,19,Seattle,PayPal
+1342,21,Male,94,68,15,Regular,16,Los Angeles,Cryptocurrency
+1343,50,Female,106,21,17,Budget,7,San Francisco,PayPal
+1344,31,Female,111,13,40,Budget,13,Los Angeles,Cryptocurrency
+1345,38,Male,73,86,18,Premium,5,Los Angeles,PayPal
+1346,65,Non-binary,73,19,9,Budget,15,Seattle,Credit Card
+1347,37,Female,62,34,25,Budget,18,Los Angeles,Cryptocurrency
+1348,25,Male,27,78,40,Premium,13,Denver,Debit Card
+1349,24,Male,121,68,14,Regular,18,New York,Credit Card
+1350,20,Male,59,52,25,Regular,2,Denver,Cryptocurrency
+1351,34,Male,103,27,50,Budget,9,New York,Cryptocurrency
+1352,50,Male,114,29,22,Budget,18,Atlanta,Debit Card
+1353,65,Male,21,28,30,Budget,8,Atlanta,Cryptocurrency
+1354,29,Male,147,35,20,Budget,19,Los Angeles,PayPal
+1355,68,Male,59,8,21,Budget,12,Miami,Debit Card
+1356,39,Female,72,16,44,Budget,6,Miami,Credit Card
+1357,39,Male,45,36,32,Budget,13,New York,Credit Card
+1358,63,Female,37,30,46,Budget,8,San Francisco,PayPal
+1359,47,Male,121,18,49,Budget,18,Seattle,Credit Card
+1360,55,Non-binary,53,2,21,Budget,14,Los Angeles,Cryptocurrency
+1361,55,Male,96,49,35,Regular,19,Seattle,Cryptocurrency
+1362,62,Male,114,77,32,Premium,13,Denver,PayPal
+1363,68,Non-binary,16,4,30,Budget,5,Miami,Credit Card
+1364,25,Female,91,90,39,Premium,20,Phoenix,Credit Card
+1365,44,Female,26,89,49,Premium,3,Denver,PayPal
+1366,44,Male,53,94,12,Premium,7,Denver,Debit Card
+1367,51,Male,27,75,41,Premium,16,New York,Credit Card
+1368,38,Female,60,7,47,Budget,8,Chicago,Debit Card
+1369,47,Female,127,95,18,Premium,0,Denver,Credit Card
+1370,50,Female,31,74,21,Premium,19,Los Angeles,Credit Card
+1371,45,Female,118,39,13,Budget,13,Houston,Credit Card
+1372,64,Male,112,13,21,Budget,10,Houston,Credit Card
+1373,50,Female,102,31,8,Budget,20,Los Angeles,Cryptocurrency
+1374,22,Male,123,71,46,Premium,2,Chicago,Debit Card
+1375,65,Male,84,63,40,Regular,8,Chicago,Debit Card
+1376,36,Male,88,56,46,Regular,13,New York,Credit Card
+1377,21,Female,77,42,7,Regular,8,Miami,Credit Card
+1378,52,Male,74,61,23,Regular,3,Seattle,Debit Card
+1379,66,Male,93,42,44,Regular,3,Chicago,Cryptocurrency
+1380,34,Female,51,56,32,Regular,7,Phoenix,PayPal
+1381,61,Male,36,36,11,Budget,1,New York,PayPal
+1382,45,Female,110,84,22,Premium,8,Atlanta,Debit Card
+1383,47,Male,82,68,22,Regular,13,San Francisco,Credit Card
+1384,46,Female,31,7,43,Budget,8,Atlanta,Credit Card
+1385,63,Female,26,54,25,Regular,15,New York,Cryptocurrency
+1386,70,Male,132,1,22,Budget,16,Denver,PayPal
+1387,23,Male,36,44,28,Regular,15,Seattle,Cryptocurrency
+1388,52,Male,134,45,29,Regular,11,San Francisco,PayPal
+1389,58,Male,64,47,13,Regular,2,Atlanta,Debit Card
+1390,54,Non-binary,28,13,18,Budget,10,San Francisco,PayPal
+1391,41,Male,43,22,2,Budget,13,Phoenix,Cryptocurrency
+1392,46,Female,139,21,29,Budget,17,Phoenix,Cryptocurrency
+1393,66,Male,21,86,21,Premium,20,Phoenix,Cryptocurrency
+1394,63,Female,43,92,15,Premium,20,New York,Debit Card
+1395,70,Female,47,9,27,Budget,4,Seattle,PayPal
+1396,48,Female,148,26,50,Budget,15,New York,PayPal
+1397,52,Male,125,9,31,Budget,19,Houston,Cryptocurrency
+1398,50,Male,93,15,15,Budget,4,Denver,PayPal
+1399,69,Male,72,10,23,Budget,2,Denver,Credit Card
+1400,38,Female,40,88,24,Premium,11,Phoenix,Credit Card
+1401,49,Female,43,42,44,Regular,0,Houston,Credit Card
+1402,40,Non-binary,18,72,13,Premium,20,Chicago,PayPal
+1403,50,Male,113,24,22,Budget,8,Chicago,Debit Card
+1404,20,Female,53,80,43,Premium,8,Phoenix,Debit Card
+1405,35,Female,29,49,37,Regular,3,Atlanta,Debit Card
+1406,42,Male,133,26,33,Budget,2,New York,Debit Card
+1407,59,Male,43,91,3,Premium,16,Phoenix,Credit Card
+1408,48,Female,89,37,19,Budget,1,Miami,Credit Card
+1409,20,Female,130,68,23,Regular,0,San Francisco,Cryptocurrency
+1410,57,Female,46,50,29,Regular,7,Denver,PayPal
+1411,63,Male,144,24,30,Budget,12,Chicago,PayPal
+1412,41,Female,98,19,39,Budget,14,Los Angeles,Debit Card
+1413,67,Male,36,100,44,Premium,7,Chicago,Credit Card
+1414,49,Male,41,60,47,Regular,11,Denver,Debit Card
+1415,64,Male,95,39,25,Budget,11,San Francisco,Cryptocurrency
+1416,39,Female,140,74,37,Premium,13,Denver,PayPal
+1417,40,Female,106,89,47,Premium,14,Los Angeles,PayPal
+1418,19,Female,35,18,8,Budget,14,Phoenix,Debit Card
+1419,44,Male,61,19,42,Budget,8,Houston,Cryptocurrency
+1420,59,Female,115,36,16,Budget,18,Los Angeles,PayPal
+1421,19,Male,98,74,8,Premium,19,Denver,Cryptocurrency
+1422,43,Female,20,97,1,Premium,7,Denver,Cryptocurrency
+1423,34,Male,145,55,44,Regular,20,Miami,Debit Card
+1424,57,Male,15,69,5,Regular,18,Miami,Credit Card
+1425,50,Male,72,47,3,Regular,5,Seattle,Debit Card
+1426,26,Male,138,49,1,Regular,19,Miami,Credit Card
+1427,60,Female,29,99,4,Premium,18,New York,Cryptocurrency
+1428,65,Female,78,98,40,Premium,3,Houston,Credit Card
+1429,56,Male,39,33,35,Budget,6,San Francisco,Cryptocurrency
+1430,46,Female,38,21,32,Budget,3,Los Angeles,PayPal
+1431,59,Male,26,81,42,Premium,11,Denver,PayPal
+1432,43,Female,32,22,34,Budget,12,Seattle,PayPal
+1433,52,Female,29,48,43,Regular,2,Seattle,Debit Card
+1434,67,Female,41,37,25,Budget,11,San Francisco,Debit Card
+1435,42,Male,86,15,10,Budget,1,Houston,Cryptocurrency
+1436,41,Female,74,35,21,Budget,1,Los Angeles,PayPal
+1437,30,Female,107,92,46,Premium,8,Chicago,Debit Card
+1438,24,Male,67,71,39,Premium,0,Miami,PayPal
+1439,53,Male,22,32,27,Budget,7,Phoenix,Debit Card
+1440,62,Female,93,11,27,Budget,5,Seattle,Credit Card
+1441,37,Female,41,10,2,Budget,5,Miami,Credit Card
+1442,18,Female,64,73,41,Premium,17,Miami,PayPal
+1443,25,Female,145,78,48,Premium,16,New York,Cryptocurrency
+1444,63,Female,107,77,13,Premium,11,Houston,Debit Card
+1445,33,Male,38,57,9,Regular,5,Phoenix,Debit Card
+1446,31,Male,74,25,36,Budget,7,Chicago,Credit Card
+1447,29,Male,136,2,22,Budget,18,Denver,Credit Card
+1448,68,Female,145,64,42,Regular,9,New York,Cryptocurrency
+1449,40,Male,60,35,26,Budget,0,Miami,Cryptocurrency
+1450,32,Female,29,7,12,Budget,12,Miami,Cryptocurrency
+1451,45,Female,31,85,17,Premium,16,Atlanta,PayPal
+1452,51,Female,140,18,14,Budget,2,Phoenix,Credit Card
+1453,19,Male,98,67,14,Regular,7,Phoenix,PayPal
+1454,49,Female,23,42,34,Regular,13,Atlanta,Credit Card
+1455,40,Male,77,39,20,Budget,2,Phoenix,Credit Card
+1456,39,Female,131,41,11,Regular,15,Miami,Debit Card
+1457,68,Male,144,75,16,Premium,12,Seattle,Credit Card
+1458,42,Male,102,24,31,Budget,19,Los Angeles,Credit Card
+1459,39,Female,86,60,6,Regular,16,Miami,PayPal
+1460,39,Male,78,46,19,Regular,12,New York,Credit Card
+1461,66,Male,86,19,37,Budget,5,Houston,PayPal
+1462,69,Female,35,68,4,Regular,16,Atlanta,Cryptocurrency
+1463,59,Female,32,90,47,Premium,13,Chicago,Credit Card
+1464,23,Female,78,42,4,Regular,16,Denver,Credit Card
+1465,32,Female,96,32,20,Budget,7,Chicago,PayPal
+1466,60,Female,124,39,10,Budget,10,Miami,Cryptocurrency
+1467,54,Male,109,36,24,Budget,19,New York,Debit Card
+1468,50,Male,46,97,35,Premium,0,Miami,Cryptocurrency
+1469,25,Male,25,36,26,Budget,6,Houston,PayPal
+1470,70,Female,59,3,37,Budget,20,Seattle,Cryptocurrency
+1471,61,Female,47,73,38,Premium,20,Denver,PayPal
+1472,61,Male,116,8,21,Budget,16,Houston,PayPal
+1473,22,Male,150,97,40,Premium,9,Atlanta,Debit Card
+1474,56,Female,25,70,39,Regular,10,Atlanta,Credit Card
+1475,21,Male,102,41,21,Regular,8,Miami,PayPal
+1476,23,Female,55,68,10,Regular,8,New York,PayPal
+1477,62,Female,90,13,38,Budget,4,Houston,Debit Card
+1478,49,Female,135,49,46,Regular,16,San Francisco,PayPal
+1479,69,Male,60,60,4,Regular,8,New York,Credit Card
+1480,47,Female,94,2,45,Budget,16,Seattle,Debit Card
+1481,64,Female,68,60,20,Regular,20,Atlanta,Credit Card
+1482,52,Female,100,5,17,Budget,18,Miami,Credit Card
+1483,57,Female,106,44,7,Regular,6,Phoenix,Debit Card
+1484,69,Female,111,27,4,Budget,8,Atlanta,PayPal
+1485,33,Female,16,32,29,Budget,6,Denver,Credit Card
+1486,30,Male,47,21,14,Budget,12,Los Angeles,Credit Card
+1487,67,Female,91,8,3,Budget,10,Phoenix,Credit Card
+1488,59,Female,130,72,24,Premium,13,Miami,Credit Card
+1489,47,Male,117,50,37,Regular,18,San Francisco,Debit Card
+1490,36,Female,117,67,16,Regular,10,Phoenix,Debit Card
+1491,34,Female,104,44,4,Regular,12,Denver,Cryptocurrency
+1492,36,Female,136,58,24,Regular,13,New York,Cryptocurrency
+1493,45,Male,120,3,34,Budget,12,San Francisco,Credit Card
+1494,43,Male,133,86,30,Premium,0,Atlanta,PayPal
+1495,54,Non-binary,63,70,18,Regular,7,San Francisco,Credit Card
+1496,43,Female,118,2,19,Budget,11,Houston,PayPal
+1497,70,Male,75,87,31,Premium,18,Denver,Credit Card
+1498,40,Female,137,44,19,Regular,11,Phoenix,Cryptocurrency
+1499,26,Female,148,2,49,Budget,7,Houston,Cryptocurrency
+1500,29,Female,23,81,46,Premium,7,San Francisco,PayPal
